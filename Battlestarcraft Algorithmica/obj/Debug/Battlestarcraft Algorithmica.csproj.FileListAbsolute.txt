@@ -1,0 +1,6 @@
+C:\Code\Google\Battlestarcraft Algorithmica\Battlestarcraft Algorithmica\bin\Debug\Battlestarcraft Algorithmica.exe.config
+C:\Code\Google\Battlestarcraft Algorithmica\Battlestarcraft Algorithmica\bin\Debug\Battlestarcraft Algorithmica.exe
+C:\Code\Google\Battlestarcraft Algorithmica\Battlestarcraft Algorithmica\bin\Debug\Battlestarcraft Algorithmica.pdb
+C:\Code\Google\Battlestarcraft Algorithmica\Battlestarcraft Algorithmica\obj\Debug\Battlestarcraft Algorithmica.csproj.CoreCompileInputs.cache
+C:\Code\Google\Battlestarcraft Algorithmica\Battlestarcraft Algorithmica\obj\Debug\Battlestarcraft Algorithmica.exe
+C:\Code\Google\Battlestarcraft Algorithmica\Battlestarcraft Algorithmica\obj\Debug\Battlestarcraft Algorithmica.pdb
